@@ -2,7 +2,7 @@
   <img src="assets/screenshots/product-solution.png" alt="Zomato Multiorder — Product Solution" width="100%">
 </p>
 
-<h1 align="center">Zomato Multiorder Product-Case Study</h1>
+<h1 align="center">Zomato Multiorder Product Case Study</h1>
 
 <p align="center">
   <strong>Different cravings. Multiple restaurants. One ordering experience.</strong>
