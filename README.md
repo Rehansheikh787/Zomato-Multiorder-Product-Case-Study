@@ -36,6 +36,7 @@ This repo contains the full PRD I wrote, the prototypes I designed, and the thin
 - [Visual Case Study](#visual-case-study)
 - [Prototype Screens](#prototype-screens)
 - [How I Used AI in This Process](#how-i-used-ai-in-this-process)
+- [Step 2 — Product Execution & Delivery Planning](#step-2--product-execution--delivery-planning)
 - [Repository Structure](#repository-structure)
 - [Documents](#documents)
 - [Built With](#built-with)
@@ -218,6 +219,32 @@ My rule: **AI refines, I decide.** Every section started with my own draft or di
 
 ---
 
+## Step 2 — Product Execution & Delivery Planning
+
+After completing the PRD and product-discovery work, I translated the selected scope into an execution-ready delivery structure.
+
+For this stage, I intentionally narrowed execution to:
+
+- **P0 — Multi-Restaurant Cart**
+- **P1 — Single Checkout**
+
+The execution layer includes:
+- 8 final user stories
+- P/Q/R/S/T/U acceptance criteria where approved
+- PM-provided Size / Risk / Impact
+- sprint-planning constraints and open decisions
+- a Jira epic → story hierarchy
+- a Trello Kanban workflow
+- a risk and decision register
+
+Where criteria or performance targets were not finalized, I left them explicitly open rather than inventing requirements.
+
+📁 **Start here:** [`execution/README.md`](execution/README.md)
+
+**Portfolio flow:** Product Discovery & PRD → Product Execution & Delivery Planning
+
+---
+
 ## Repository Structure
 
 ```
@@ -234,6 +261,17 @@ My rule: **AI refines, I decide.** Every section started with my own draft or di
 │   └── ai-workflow.md             ← How AI was used as a PM copilot
 ├── design-system/
 │   └── DESIGN.md                  ← Design tokens from Google Stitch
+├── execution/                     ← Step 2: execution & delivery planning
+│   ├── README.md
+│   ├── user-stories.md
+│   ├── acceptance-criteria.md
+│   ├── prioritization.md
+│   ├── sprint-planning.md
+│   ├── risk-register.md
+│   ├── jira/
+│   │   └── jira-setup.md
+│   └── trello/
+│       └── trello-kanban.md
 └── LICENSE
 ```
 
@@ -248,6 +286,7 @@ My rule: **AI refines, I decide.** Every section started with my own draft or di
 | [**ai-workflow.md**](prompts/ai-workflow.md) | Full AI-assisted PM workflow with prompt reasoning and decision log |
 | [**DESIGN.md**](design-system/DESIGN.md) | Design system tokens — colors, typography, spacing, components |
 | [**Prototype Showcase**](docs/prototype-showcase.html) | Interactive HTML gallery of all 12 prototype screens |
+| [**Step 2 — Execution Planning**](execution/README.md) | User stories, acceptance criteria, sizing, sprint planning, risks, Jira and Trello structure |
 
 ---
 
