@@ -19,10 +19,20 @@ Step 2 intentionally focuses on the two capabilities selected for execution plan
 | Artifact | Portfolio evidence |
 |---|---|
 | **Sprint Planning Sheet** | [Open the public Google Sheet](https://docs.google.com/spreadsheets/d/12JhbNJhKMT35e8SFm636cQT4uTjmB-Y1p67gJdM5dzU/edit?usp=sharing) |
-| **Trello Sprint Kanban** | [Open the public Trello board](https://trello.com/b/rjShkpYH/zomato-multiorder-sprint-kanban) — board screenshot will be added below |
-| **Jira Delivery Board** | Screenshot evidence only; the private Jira workspace is intentionally not linked |
+| **Trello Sprint Kanban** | [Open the public Trello board](https://trello.com/b/rjShkpYH/zomato-multiorder-sprint-kanban) + screenshot evidence below |
+| **Jira Delivery Board** | Screenshot evidence below; the private Jira workspace is intentionally not linked |
 
-> Portfolio privacy: the Google Sheet and Trello board are intentionally shared for viewing. Jira remains private and will be represented only through a sanitized screenshot.
+> Portfolio privacy: the Google Sheet and Trello board are intentionally shared for viewing. Jira remains private and is represented only through a sanitized screenshot.
+
+### Trello Board Evidence
+
+[Open the public Trello board](https://trello.com/b/rjShkpYH/zomato-multiorder-sprint-kanban)
+
+![Zomato Multiorder Trello Sprint Kanban](trello/trello-board-portfolio.png)
+
+### Jira Backlog Evidence
+
+![Zomato Multiorder Jira Backlog](jira/jira-backlog-portfolio-final.png)
 
 ## Execution artifacts
 
