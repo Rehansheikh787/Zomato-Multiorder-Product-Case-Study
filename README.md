@@ -37,6 +37,7 @@ This repo contains the full PRD I wrote, the prototypes I designed, and the thin
 - [Prototype Screens](#prototype-screens)
 - [How I Used AI in This Process](#how-i-used-ai-in-this-process)
 - [Step 2 — Product Execution & Delivery Planning](#step-2--product-execution--delivery-planning)
+- [Execution Evidence](#execution-evidence)
 - [Repository Structure](#repository-structure)
 - [Documents](#documents)
 - [Built With](#built-with)
@@ -242,6 +243,28 @@ Where criteria or performance targets were not finalized, I left them explicitly
 📁 **Start here:** [`execution/README.md`](execution/README.md)
 
 **Portfolio flow:** Product Discovery & PRD → Product Execution & Delivery Planning
+
+---
+
+
+## Execution Evidence
+
+The execution phase is supported by live planning artifacts and delivery-board evidence.
+
+### Sprint Planning Sheet
+[Open the public Google Sheet](https://docs.google.com/spreadsheets/d/12JhbNJhKMT35e8SFm636cQT4uTjmB-Y1p67gJdM5dzU/edit?usp=sharing)
+
+### Trello Sprint Kanban
+[Open the public Trello board](https://trello.com/b/rjShkpYH/zomato-multiorder-sprint-kanban)
+
+<img src="execution/trello/trello-board-portfolio.png" alt="Zomato Multiorder Trello Sprint Kanban" width="100%">
+
+### Jira Backlog
+The Jira workspace remains private, so the portfolio includes screenshot evidence only.
+
+<img src="execution/jira/jira-backlog-portfolio-final.png" alt="Zomato Multiorder Jira Backlog" width="100%">
+
+> Jira is intentionally not publicly linked. The Google Sheet and Trello board are shared for portfolio viewing.
 
 ---
 
