@@ -199,7 +199,7 @@ I designed both mobile and web prototypes using [Google Stitch](https://stitch.w
   </tr>
 </table>
 
-> 🔗 **Interactive prototype gallery:** Open [**Live Web Showcase**](https://rehansheikh787.github.io/Zomato-Multiorder-PRD-file-Portfolio/) or view [`docs/index.html`](docs/index.html) locally for an interactive click-through experience with zoom.
+> 🔗 **Interactive prototype gallery:** Open [**Live Web Showcase**](https://rehansheikh787.github.io/Zomato-Multiorder-Product-Case-Study/docs/prototype-showcase.html) or view [`docs/index.html`](docs/index.html) locally for an interactive click-through experience with zoom.
 
 ---
 
