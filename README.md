@@ -308,7 +308,7 @@ The Jira workspace remains private, so the portfolio includes screenshot evidenc
 | [**plan.md**](plan.md) | Goals, RICE prioritization, phased rollout, functional & non-functional requirements, success metrics, risks |
 | [**ai-workflow.md**](prompts/ai-workflow.md) | Full AI-assisted PM workflow with prompt reasoning and decision log |
 | [**DESIGN.md**](design-system/DESIGN.md) | Design system tokens — colors, typography, spacing, components |
-| [**Prototype Showcase**](https://rehansheikh787.github.io/Zomato-Multiorder-Product-Case-Study/)
+| [**Prototype Showcase**](https://rehansheikh787.github.io/Zomato-Multiorder-Product-Case-Study/) |Interactive HTML gallery of all 12 prototype screens|
 | [**Step 2 — Execution Planning**](execution/README.md) | User stories, acceptance criteria, sizing, sprint planning, risks, Jira and Trello structure |
 
 ---
