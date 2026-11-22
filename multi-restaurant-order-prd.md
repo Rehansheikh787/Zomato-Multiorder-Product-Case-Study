@@ -145,6 +145,23 @@ Enable users to place one consolidated order containing items from multiple rest
 - Rate of multi-restaurant order cancellations
 - Customer satisfaction / NPS for group ordering
 
+## 11.1 Business Viability & Unit Economics
+
+In addition to customer adoption and checkout conversion,
+multi-restaurant ordering should be evaluated for its
+incremental contribution and fulfillment costs.
+
+A hypothetical scenario with 10% adoption among 10,000
+eligible customers illustrates ₹1,00,000 in incremental
+GMV but a ₹5,000 contribution loss.
+
+This highlights the trade-off between basket growth
+and coordinated-delivery costs.
+
+[View the full hypothetical business-impact analysis](business-impact.md)
+
+*Illustrative assumptions only; no actual Zomato data used.*
+
 ## 12. Dependencies
 - Restaurant catalog data and menu availability
 - Delivery partner routing / assignment system
