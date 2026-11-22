@@ -333,6 +333,7 @@ The Jira workspace remains private, so the portfolio includes screenshot evidenc
 | [**context.md**](context.md) | Problem, persona (Rohan Sharma), customer journey, competitive landscape, stakeholders |
 | [**plan.md**](plan.md) | Goals, RICE prioritization, phased rollout, functional & non-functional requirements, success metrics, risks |
 | [**business-impact.md**](business-impact.md) | Hypothetical GMV, contribution margin, fulfillment costs, break-even analysis, and product trade-offs |
+| [**Product Requirements Document**](multi-restaurant-order-prd.md) | Product scope, functional requirements, acceptance criteria, metrics and rollout |
 | [**ai-workflow.md**](prompts/ai-workflow.md) | Full AI-assisted PM workflow with prompt reasoning and decision log |
 | [**DESIGN.md**](design-system/DESIGN.md) | Design system tokens — colors, typography, spacing, components |
 | [**Prototype Showcase**](https://rehansheikh787.github.io/Zomato-Multiorder-Product-Case-Study/) | Interactive HTML gallery of all 12 prototype screens |
