@@ -158,6 +158,20 @@ If any counter metric moves by more than 5% in the wrong direction during rollou
 
 ---
 
+### Business Viability Considerations
+
+Beyond adoption and order frequency, the proposed multiorder experience must be evaluated for its incremental contribution and fulfillment costs.
+
+An illustrative scenario with 10% adoption among 10,000 eligible customers produces ₹1 lakh in incremental GMV but a ₹5,000 contribution loss after additional fulfillment expenses.
+
+The scenario demonstrates why coordinated delivery should be scaled only after validating unit economics and operational reliability.
+
+**Detailed analysis:** [Hypothetical Business Impact & Unit Economics](business-impact.md)
+
+*These figures are assumptions for product planning, not real Zomato financial or experimental data.*
+
+---
+
 ## Risks I'm Watching
 
 | Risk | Likelihood | Impact | Mitigation |
