@@ -56,7 +56,7 @@ Customers on Zomato can only order from **one restaurant per order**. This seems
 | 👫 Friends ordering together — different cravings | Someone compromises or everyone orders individually | Add from multiple places, split or combine payment |
 | 🧑‍💻 Solo user — biryani + ice cream from the dessert shop next door | Two orders for two places 200m apart | One delivery partner picks up both |
 
-**The result:** lower average order value, higher drop-off for group orders, and missed revenue from second-restaurant additions.
+**Potential business impact:** Separate restaurant checkouts may increase ordering friction, discourage additional purchases, and create missed revenue opportunities. These are product hypotheses that require validation using actual customer and transaction data.
 
 ---
 
