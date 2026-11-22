@@ -33,6 +33,7 @@ This repo contains the full PRD I wrote, the prototypes I designed, and the thin
 
 - [The Problem](#the-problem)
 - [Solution Overview](#solution-overview)
+- [Business Impact & Unit Economics](#business-impact--unit-economics)
 - [Visual Case Study](#visual-case-study)
 - [Prototype Screens](#prototype-screens)
 - [How I Used AI in This Process](#how-i-used-ai-in-this-process)
@@ -71,6 +72,30 @@ One payment covers all restaurants. Fee breakdown is fully transparent — you s
 
 ### 3. Coordinated Delivery `P2`
 One delivery partner handles multi-stop pickup. Tracking screen shows parallel prep status per restaurant with a combined ETA.
+
+---
+
+## Business Impact & Unit Economics
+
+To assess the potential business viability of multi-restaurant ordering, I developed an assumption-based unit-economics scenario.
+
+| Illustrative Metric | Result |
+|---|---:|
+| Eligible customers | 10,000/month |
+| Feature adoption | 10% |
+| Incremental GMV | ₹1,00,000/month |
+| Contribution from added spending | ₹15,000/month |
+| Additional fulfillment cost | ₹20,000/month |
+| Net incremental contribution | **−₹5,000/month** |
+| Break-even incremental spending | **₹133.33/order** |
+
+**Product insight:** Higher basket value does not necessarily mean higher profitability. Coordinated delivery must generate enough incremental value to offset additional fulfillment costs.
+
+**PM decision:** Retain the P0 → P1 → P2 rollout sequence and evaluate unit economics before scaling coordinated delivery.
+
+> All figures are hypothetical assumptions, not real Zomato business results.
+
+📊 **[Read the complete business-impact and break-even analysis](business-impact.md)**
 
 ---
 
@@ -274,6 +299,7 @@ The Jira workspace remains private, so the portfolio includes screenshot evidenc
 ├── README.md                      ← You are here
 ├── context.md                     ← Product context: problem, persona, journey, competition
 ├── plan.md                        ← Execution plan: RICE, requirements, metrics, rollout
+├── business-impact.md           ← Hypothetical unit economics, break-even analysis, and business trade-offs
 ├── docs/
 │   └── prototype-showcase.html    ← Interactive prototype gallery (HTML)
 ├── assets/
@@ -306,6 +332,7 @@ The Jira workspace remains private, so the portfolio includes screenshot evidenc
 |---|---|
 | [**context.md**](context.md) | Problem, persona (Rohan Sharma), customer journey, competitive landscape, stakeholders |
 | [**plan.md**](plan.md) | Goals, RICE prioritization, phased rollout, functional & non-functional requirements, success metrics, risks |
+| [**business-impact.md**](business-impact.md) | Hypothetical GMV, contribution margin, fulfillment costs, break-even analysis, and product trade-offs |
 | [**ai-workflow.md**](prompts/ai-workflow.md) | Full AI-assisted PM workflow with prompt reasoning and decision log |
 | [**DESIGN.md**](design-system/DESIGN.md) | Design system tokens — colors, typography, spacing, components |
 | [**Prototype Showcase**](https://rehansheikh787.github.io/Zomato-Multiorder-Product-Case-Study/) | Interactive HTML gallery of all 12 prototype screens |
